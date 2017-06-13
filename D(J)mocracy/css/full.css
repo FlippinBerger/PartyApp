@@ -11,7 +11,7 @@ body {
 /* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
 
 .full {
-    background: url('https://static.pexels.com/photos/2143/lights-party-dancing-music.jpg') no-repeat center center fixed;
+    background: #2E4053;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
